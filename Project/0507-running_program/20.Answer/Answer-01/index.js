@@ -1,1 +1,0 @@
-console.dir(JSON.stringify(process.env, null, 2));
